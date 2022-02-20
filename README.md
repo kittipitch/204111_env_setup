@@ -6,6 +6,11 @@ GitHub Student Developer Pack
 
 ## VSCode on WSL2 (Windows)
 
+```ps
+foo@bar:~$ whoami
+foo
+```
+
 ## VSCode on Browsers
 
 ## VSCode on OSX
